@@ -1,1 +1,1 @@
- printf("you are %d years old.\n",age);
+strcpy(string1 ,string2, 1);
